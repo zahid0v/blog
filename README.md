@@ -54,3 +54,4 @@ See the [LICENSE](LICENSE) file for full details.
 ## Special Thanks
 
 Special thanks to [Sat Naing](https://github.com/satnaing) for creating the excellent [AstroPaper theme](https://astro-paper.pages.dev/) that served as the foundation for this website. Their thoughtful design and clean architecture made it a joy to build upon.
+# blog
